@@ -1,0 +1,3 @@
+# SilverStripe Checkbox Group Field
+
+Watch this space...
